@@ -1,9 +1,6 @@
-# Summary dare to lead - by Brené Brown
+# Summary Dare to Lead - by Brené Brown
 
-References: https://pocketbook4you.com/en/read/dare-to-lead
-References: https://lifeclub.org/books/dare-to-lead-brene-brown-review-summary
-
-
+Research has shown that when it comes to teaching leaders resilience skills, timing is everything. Specifically, teaching them early on as part of a wider training program is more likely to result in them demonstrating courageous behaviors. Why? Quite simply, they are confident in their ability to get back up again if their daring behavior doesn’t pay off. So companies that fail to instill these resilience skills in their workforce are effectively deterring their leaders, both present and future, from bravery. Some organizations may worry that teaching leaders how to fail from the get-go promotes a culture of low expectations. 
 
 Have you ever been in leadership position, or was it something remarkable, like managing a team with ten, hundreds of people or something, your chances of the leadership traps of the modern culture are great
 
@@ -64,15 +61,41 @@ It is important to always ask for clear feedback from team members by listening 
 
 **#3 Core values anchor and guide daring leadership**
 
-Our values inform our judgements about what is most important in our lives. The most courageous leaders that the author came across during her research were those who had the most clarity about what their values were. During times of uncertainty and vulnerability, their values were an important support to the. They were more willing to take risks, secure in the knowledge that their values would guide them through without compromising their integrity.
+Our values inform our judgements about what is most important in our lives. The most courageous leaders that the author came across during her research were those who had the most clarity about what their values were. During times of uncertainty and vulnerability, their values were an important support to them. They were more willing to take risks, secure in the knowledge that their values would guide them through without compromising their integrity.
 
 
 
-#4 Trust is an importan t
+**#4 Trust is an important and Crucial aspect of our working relationship**
+
+First, we need to ask ourselves : What does the concept of trust really mean? The authors team of researchers has highlight seven behaviours that could encourage trust, expressed together with the acronym "BRAVING". 
+
+B : Boundaries, the element of trust involves respecting others boundaries. 
+
+R : Reliability, doing what we say we will. In short, Being aware of our abilities and limitations so that we do not end up overpromising and under delivering the commitment
+
+A : Accountability means we take responsibility and apologize for our mistakes
+
+V : Vault means safe, this behaviour is extremely important because there is information that is not ours to convey. People need to make sure we keep their confidences to ourselves
+
+I : Integrity. This is fifth behaviour that means choose courage instead of comfort. Choose to do what is right instead of what is easy, legal or advantageous. Practices the value you convey.
+
+N : Non-judgment, with it people can freely tell us what they really feel. That's because we won't judge them for it
+
+G : Generous. Being generous in our attitudes we increase the chances of people to trust us, as they will know that we see the best in others, not the worst.
+
+Implement this 7 behaviours to become successfull. trustworthy leader.
 
 
 
+**#5 Learning how to fail help us to be brave**
 
+Research has shown that when it comes to teaching leaders resilience skills, timing is everything. Specifically, teaching them early on as part of a wider training program is more likely to result in them demonstrating courageous behaviors. Why? Quite simply, they are confident in their ability to get back up again if their daring behavior doesn’t pay off. So companies that fail to instill these resilience skills in their workforce are effectively deterring their leaders, both present and future, from bravery. Some organizations may worry that teaching leaders how to fail from the get-go promotes a culture of low expectations. 
+
+
+
+**#6: Perfectionism holds us back from self-improvement and true courage.**
+
+Right from childhood, we seek to shield ourselves from vulnerable feelings like disappointment, hurt and diminishment. By building a wall out of our behaviors, emotions and thoughts, we protect ourselves from the big bad world. But to live and lead with courage, as we already know, we must let ourselves be vulnerable. This means letting down our walls and recognizing protective thoughts and behaviors for the defense mechanisms they really are. One of the most pervasive types of self-protection is perfectionism. To become daring leaders, we must rid ourselves of perfectionism. To do so, let’s start by busting some of the myths around this damaging phenomenon. Perhaps the most damaging myth of all is that perfectionism is about self-improvement and striving for excellence. But in fact, perfectionism is really about attempting to win approval. Furthermore, perfectionists are more likely to miss opportunities and experience mental paralysis that keeps them from fully engaging in life. Why? Because their fears of being criticized or not meeting the expectations of others keeps them from entering the messy arena of life, where healthy competition and striving for true greatness occur to become a daring leader, take off the armor of perfectionism and jump into the fray of life. You might make mistakes in the process, but you’ll gain something valuable in exchange: the courage to succeed and lead.
 
 
 
