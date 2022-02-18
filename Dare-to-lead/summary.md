@@ -1,23 +1,41 @@
-# Summary Dare to Lead - by Brené Brown
+# Dare to Lead - by Brené Brown
 
-Research has shown that when it comes to teaching leaders resilience skills, timing is everything. Specifically, teaching them early on as part of a wider training program is more likely to result in them demonstrating courageous behaviors. Why? Quite simply, they are confident in their ability to get back up again if their daring behavior doesn’t pay off. So companies that fail to instill these resilience skills in their workforce are effectively deterring their leaders, both present and future, from bravery. Some organizations may worry that teaching leaders how to fail from the get-go promotes a culture of low expectations. 
-
-Have you ever been in leadership position, or was it something remarkable, like managing a team with ten, hundreds of people or something, your chances of the leadership traps of the modern culture are great
-
-You may think in order to lead you need to look like a strong kind a person who doesn't admit failure. That it is necessary to avoid truth that can hurt someone sentimentally. These things often happen because that is how leadership viewed by society.
-
-But the truth is that the opposite behaviour is that would produce the best result. The author in "Dare to Lead" show us how to take a charge and lead, eliminating once and for all our misconceptions.
+Reviewed by : M. Ridwan Zalbina
 
 
 
-**About the book**
+## **Introduction**
 
-Released in 2018, was written by Brené Browns. It brings a practical and guide to leadership based on courage. This book has 320 pages, divide into 4 parts:
+If asked to describe some characteristics of a great leader, most people wouldn’t use adjectives like “vulnerable,” “empathetic,” “open-minded,” or “willing to ask for help.” Yet that’s exactly how Dr. Brené Brown, a leadership expert and research professor at the University of Houston, would describe one.
+
+Brown has been studying leadership for over two decades. Her 2010 TED Talk, “The Power of Vulnerability,” is one of the top five most viewed talks of all time, and she’s written several New York Times bestsellers like “Daring Greatly” and “The Gifts of Imperfection,” which have amassed thousands of positive reviews and accolades from some of the world’s best leaders, thinkers, and doers.
+
+Brown has tested the skills and processes in “Dare to Lead” with over 10,000 individuals. She’s applied these concepts in more than 50 organizations, from giant entities such as the Gates Foundation and Shell to small family-owned businesses. According to Brown, the strategies outlined in this book have led to a significant positive impact on these organizations.
+
+In “Dare to Lead,” Brené Brown has created a handbook for anyone who wants to learn how to be an authentic, empathetic, and courageous leader. Her use of the word “leader” can apply to many different roles and situations. Brown defines a leader as “anyone who takes responsibility for recognizing the potential in other people or processes, and who has the courage to develop that potential.”
+
+
+
+**Synopsis**
+
+When we dare to lead, we don’t pretend to have the right answers; we stay curious and ask the right questions. We don’t see power as finite and hoard it; we know that power becomes infinite when we share it with others. We don’t avoid difficult conversations and situations; we lean into vulnerability when it’s necessary to do good work. But daring leadership in a culture defined by scarcity, fear, and uncertainty requires skill-building around traits that are deeply and uniquely human. The irony is that we’re choosing not to invest in developing the hearts and minds of leaders at the exact same time as we’re scrambling to figure out what we have to offer that machines and AI can’t do better and faster. What can we do better? Empathy, connection, and courage, to start.
+
+Released in 2018, was written by Brené Brown. It brings a practical and guide to leadership based on courage. This book has 320 pages, divide into 4 parts:
 
 - Rumbling with Vulnerability
 - Living into our values
 - Braving trust
 - Learning to rise
+
+
+
+**About the Author**
+
+Brené Brown was born in 1965 in United States. She is a research professor at The Graduate Collage of Social Work at the University of Houston. She has spent the past two decades studying about courage, vulnerability, shame and empathy.
+
+Brown is the author of 4# 1 New York Times bestsellers. 
+
+"Atlas of the Heart", "You Are Your Best Thing", "The Gifts of Imperfection", "Dare to Lead", "Braving the Wilderness", "Rising Strong", "Daring Greatly", "I Thought It Was Just Me (But It Isn't)", "The Power of Vulnerability", "Rising Strong as a Spiritual Practice"
 
 
 
@@ -34,6 +52,8 @@ If you want to learn how to be a better leader, you need to forgot about all the
 - Vulnerability leads to innovation and why bravery and perfectionism don't mix
 
 
+
+## Summary of content
 
 **#1 Far from being weakness, vulnerability is an essential asset for innovation**
 
@@ -99,3 +119,18 @@ Right from childhood, we seek to shield ourselves from vulnerable feelings like 
 
 
 
+## Analysis, Perspective & Evaluation
+
+This book, I think is one of the most important and relevant book for us to bring it to our daily basis. We all ever had a failure of our leadership in many different areas : family, workplace, community, organization, governance, or anythin that could led us to engage with people. 
+
+What makes “Dare to Lead” so compelling is its humanness. Brown isn’t afraid to share stories of her weaknesses, and of all the times she fell woefully short of doing her best. She’s not afraid to detail the rifts she’s had with her spouse or team because of her failures and weaknesses.
+
+Some downside of this book, I think there is so much terms that likely unfamiliar with unless we have read other books. Maybe, it would have been more helpful to include the glossary in the book itself.
+
+Despite all of that, this book is structured and carried with a good narration.
+
+
+
+## Conclusion
+
+I think this book is more that about some factors to be a great leaders, but also for us to live a life in fast pace condition. How to embrace failure, how to maintain vulnerability to be an innovation throughout courageous. This book is really amazing to read, and it's really helpful to face the day in life, and learn to not afraid and take off the armor of perfectionism.
