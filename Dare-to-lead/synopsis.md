@@ -47,9 +47,7 @@ Part four, Learning to Rise, covers failure — and how important failure is to 
 
 - The heart of daring leadership:
 
-  1. You can’t get to courage without rumbling through vulnerability.
-
-     Embrace the suck
+  1. You can’t get to courage without rumbling through vulnerability. Embrace the suck
 
      - Courage and fear are not mutually exclusive. We can feel both at the same time
 
@@ -211,8 +209,9 @@ Part four, Learning to Rise, covers failure — and how important failure is to 
 - **Integrity** is choosing courage over comfort
   - Choosing what’s right over what’s fun, fast, or easy
   - It’s practicing our values, not just processing them
--  
-  - Mastery requires *feedback*
+
+- Mastery requires *feedback*
+
 - **We don’t fully see people until we know their values**
 
 
