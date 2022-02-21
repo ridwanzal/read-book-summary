@@ -16,19 +16,6 @@ In “Dare to Lead,” Brené Brown has created a handbook for anyone who wants 
 
 
 
-**Synopsis**
-
-When we dare to lead, we don’t pretend to have the right answers; we stay curious and ask the right questions. We don’t see power as finite and hoard it; we know that power becomes infinite when we share it with others. We don’t avoid difficult conversations and situations; we lean into vulnerability when it’s necessary to do good work. But daring leadership in a culture defined by scarcity, fear, and uncertainty requires skill-building around traits that are deeply and uniquely human. The irony is that we’re choosing not to invest in developing the hearts and minds of leaders at the exact same time as we’re scrambling to figure out what we have to offer that machines and AI can’t do better and faster. What can we do better? Empathy, connection, and courage, to start.
-
-Released in 2018, was written by Brené Brown. It brings a practical and guide to leadership based on courage. This book has 320 pages, divide into 4 parts:
-
-- Rumbling with Vulnerability
-- Living into our values
-- Braving trust
-- Learning to rise
-
-
-
 **About the Author**
 
 Brené Brown was born in 1965 in United States. She is a research professor at The Graduate Collage of Social Work at the University of Houston. She has spent the past two decades studying about courage, vulnerability, shame and empathy.
