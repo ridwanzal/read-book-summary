@@ -6,83 +6,24 @@ Synopsis by : M. Ridwan Zalbina
 
 # **Synopsis**
 
-“Leadership is not about titles, status, and wielding power. A leader is anyone who takes responsibility for recognizing the potential in people and ideas and has the courage to develop that potential.  
+The heart of Brown’s book is about courage and vulnerability. You can’t have one without the other, even though many think the two are mutually exclusive. In “Dare to Lead,” Brown sets out to prove why these two traits are so intertwined and how each of us, regardless of age or background, can strengthen these skills to live a more daring, authentic life.
 
-When we dare to lead, we don’t pretend to have the right answers; we stay curious and ask the right questions. We don’t see power as finite and hoard it; we know that power becomes infinite when we share it with others. We don’t avoid difficult conversations and situations; we lean into vulnerability when it’s necessary to do good work.  
+Great leadership requires courage. Many people believe that courage is something you’re born with; either you have it or you don’t. However, Brown disagrees. According to her research, courage is a collection of four key skill sets, which can be taught. These four skills are:
 
-But daring leadership in a culture that’s defined by scarcity, fear, and uncertainty requires skill-building around traits that are deeply and uniquely human. The irony is that we’re choosing not to invest in developing the hearts and minds of leaders at the exact same time as we’re scrambling to figure out what we have to offer that machines and AI can’t do better and faster. What can we do better? Empathy, connection, and courage, to start.  
+- Rumbling with Vulnerability
+- Living into Our Values
+- Braving Trust
+- Learning to Rise
 
-Brené Brown has spent the past two decades studying the emotions and experiences that give meaning to our lives, and the past seven years working with transformative leaders and teams spanning the globe. She found that leaders in organizations ranging from small entrepreneurial startups and family-owned businesses to nonprofits, civic organizations, and Fortune 50 companies all ask the same question:  
+“Dare to Lead” is organized into four parts, one for each skill. Within each part, Brown outlines the skill in-depth, and provides tools and lessons you need to strengthen it. She also uses the power of storytelling to show what each skill looks like, or the chaos that can result from its absence.
 
-*How do you cultivate braver, more daring leaders, and how do you embed the value of courage in your culture?* ” -Audible
+Part one, Rumbling with Vulnerability, is by far the longest of the four. The reason is because vulnerability is the heart of every other skill outlined in the book, and it’s an essential part of living a courageous life. So, Brown spends a great deal of time exploring why courage and vulnerability are so inseparable. She also goes over several myths about vulnerability and the role trust plays. She also explores shame, why it’s so threatening to vulnerability, and how you can use empathy to destroy it.
 
+Part two, Living Into Our Values, helps you identify what your values are, and how you can use those values to live and work more authentically.
 
+Part three, Braving Trust, outlines how to build trust and — just as importantly — how to build and keep it with your team using seven key behaviors that form the acronym “BRAVING.”
 
-### Part One: Rumbling with Vulnerability
-
-#### SECTION ONE: THE MOMENT AND THE MYTHS
-
-- **Vulnerability** is not winning or losing. It’s *having the courage to show up when you can’t control the outcome* 
-
-- Cheap seat feedback is given from people who don’t get into the ring and practice vulnerability but will give cheap feedback anyway
-
-  - **To love is to be vulnerable**
-
-- The 6 myths of vulnerability
-
-  - Myth #1: vulnerability is weakness
-  - Myth #2: I don’t do vulnerability
-  - Myth #3: I can go it alone
-    - We are hardwired for connection. From our mirror neurons to language, we are a social species. In the absence of authentic connection, we suffer
-    - We derive strengths from our collective ability to plan, communicate, and work together
-  - Myth #4: you can engineer the uncertainty and discomfort out of vulnerability
-  - Myth #5: trust comes before vulnerability 
-    - Trust is a slow building, iterative, and layered process that happens overtime
-    - Trust is earned in the smallest of moments. It is earned through paying attention, listening, and gestures of genuine care and connection
-    - 4 horsemen of the apocalypse of a failing marriage:
-      1. criticism
-      2. defensiveness
-      3. stonewalling
-      4. contempt 
-
-  - Myth #6: vulnerability is disclosure 
-
-
-
-#### SECTION 2: THE CALL TO COURAGE
-
-- Being clear with people is kind, being unclear as unkind
-
-> “The cave you fear to enter holds the treasure you seek”
->
-> Joseph Campbell
-
-- **Stockdale lesson**: you must never confuse *faith* that you will prevail in the end which you can never afford to lose with the *discipline to confront* the most brutal facts of your current reality, whatever they might be
-  - They call this learning gritty faith and gritty facts
-  - They are big believers in “*what’s my part?*”
-- When we’re lonely, we feel lethargic 
-- In sanitizing our language, in the context of military leadership training, we’ve decreased our comfort with expressing those feelings and holding that same space for others
-- Leaders must either invest a reasonable amount of time attending to fears and feelings or squander an unreasonable amount of time trying to manage ineffective and unproductive behavior 
-- Other peoples emotions are not our jobs
-  - ***We can’t both serve people and try to control their feelings***
-
-
-
-------
-
-## Synopsis:
-
-
-
-“Leadership is not about titles, status, and wielding power. A leader is anyone who takes responsibility for recognizing the potential in people and ideas and has the courage to develop that potential.  
-
-When we dare to lead, we don’t pretend to have the right answers; we stay curious and ask the right questions. We don’t see power as finite and hoard it; we know that power becomes infinite when we share it with others. We don’t avoid difficult conversations and situations; we lean into vulnerability when it’s necessary to do good work. 
-
-But daring leadership in a culture that’s defined by scarcity, fear, and uncertainty requires skill-building around traits that are deeply and uniquely human. The irony is that we’re choosing not to invest in developing the hearts and minds of leaders at the exact same time as we’re scrambling to figure out what we have to offer that machines and AI can’t do better and faster. What can we do better? Empathy, connection, and courage, to start. 
-
-Brené Brown has spent the past two decades studying the emotions and experiences that give meaning to our lives, and the past seven years working with transformative leaders and teams spanning the globe. She found that leaders in organizations ranging from small entrepreneurial startups and family-owned businesses to nonprofits, civic organizations, and Fortune 50 companies all ask the same question: 
-
-*How do you cultivate braver, more daring leaders, and how do you embed the value of courage in your culture?* ” -Audible
+Part four, Learning to Rise, covers failure — and how important failure is to taking risks and leading courageously. In this last section, Brown goes over a three-step process to fail more effectively and get back up again.
 
 
 
@@ -270,9 +211,9 @@ Brené Brown has spent the past two decades studying the emotions and experience
 - **Integrity** is choosing courage over comfort
   - Choosing what’s right over what’s fun, fast, or easy
   - It’s practicing our values, not just processing them
-- Daring leaders who live into their values are never silent about hard things
+-  
   - Mastery requires *feedback*
-- ***We don’t fully see people until we know their values\*** 
+- **We don’t fully see people until we know their values**
 
 
 
