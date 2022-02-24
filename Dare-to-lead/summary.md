@@ -26,7 +26,7 @@ Brown is the author of 4# 1 New York Times bestsellers.
 
 
 
-**For whom is this book is dedicated**
+**For whom is this book dedicated**
 
 If you want to learn how to be a better leader, you need to forgot about all the status, power etc. Instead, be prepared to engage your heart and mind by finding out how the most courageous leaders think, feel and behave.
 
@@ -121,3 +121,4 @@ Despite all of that, this book is structured and carried with a good narration.
 ## Conclusion
 
 I think this book is more that about some factors to be a great leaders, but also for us to live a life in fast pace condition. How to embrace failure, how to maintain vulnerability to be an innovation throughout courageous. This book is really amazing to read, and it's really helpful to face the day in life, and learn to not afraid and take off the armor of perfectionism.
+
